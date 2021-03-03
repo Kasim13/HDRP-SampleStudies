@@ -81,6 +81,6 @@ Material:
     - _DecalStencilRef: 16
     - _DecalStencilWriteMask: 16
     - _DrawOrder: 0
-    - _Opacity: 15.766984
+    - _Opacity: -0.105691046
     m_Colors: []
   m_BuildTextureStacks: []
